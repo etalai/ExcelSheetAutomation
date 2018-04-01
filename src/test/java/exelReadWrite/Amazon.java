@@ -86,5 +86,8 @@ public class Amazon {
 		out.close();
 		in.close();
 	}
-
+	
+	void printSomething() {
+		System.out.println("something");
+	}
 }
